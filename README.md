@@ -1,9 +1,9 @@
 # MERN-Book-Library-Search-Engine
 
 # User Story
-AS AN avid reader
-I WANT to search for new books to read
-SO THAT I can keep a list of books to purchase
+- AS AN avid reader
+- I WANT to search for new books to read
+- SO THAT I can keep a list of books to purchase
 
 # Description 
 Usage of Google Books API to create an Graql API with Apollo Server. MERN stack is implemented to create the app. User can sign up and log in for an account, search for a book of their liking and added to a list of saved books, users can also remove the saved books.
